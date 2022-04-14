@@ -28,6 +28,7 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS3" width="24"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
@@ -37,7 +38,7 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24"></code>
 <code><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse" width="24"></code>
-<code><img src="" alt="" width=""></code>
+
 
 <!--
 <code><img src="" alt="" width=""></code>
@@ -59,6 +60,7 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
+
 <br/>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
