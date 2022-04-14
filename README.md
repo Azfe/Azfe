@@ -30,7 +30,7 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 <code><img height="20" src="https://img2.freepng.es/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-5b8e9698822d99.0636011515360713205332.jpg"></code>
 
 <code><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS3" width="24"></code>
-<code><img src="https://w7.pngwing.com/pngs/650/774/png-transparent-xml-schema-document-type-definition-configuration-file-parsing-raspberry-logo-miscellaneous-text-rectangle.png" alt="" width=""></code>
+<code><img src="https://w7.pngwing.com/pngs/650/774/png-transparent-xml-schema-document-type-definition-configuration-file-parsing-raspberry-logo-miscellaneous-text-rectangle.png" alt="XML" width="24"></code>
 
 ### Tools 🛠️
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24"></code>
