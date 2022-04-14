@@ -60,11 +60,13 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
 
-<br/><br/>
+<br/>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/alexzapata" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<br/>
 
 📈 **my github stats**
 
