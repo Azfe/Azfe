@@ -53,7 +53,6 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 <br />
-<br />
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=gotham" alt="azfe" />
