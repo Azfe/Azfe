@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 Hi, I'm [Alex Zapata], a passionate self-taught programmer who likes to continue learning every day about anything related to computing or programming.
 I love surfing the internet and discovering new knowledge to be able to use it in my projects.
 
-<img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/main/programming2.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**  
 
