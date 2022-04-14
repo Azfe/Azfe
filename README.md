@@ -29,6 +29,7 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://img2.freepng.es/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-5b8e9698822d99.0636011515360713205332.jpg"></code>
 
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="24"></code>
 <code><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS3" width="24"></code>
 <code><img src="https://w7.pngwing.com/pngs/650/774/png-transparent-xml-schema-document-type-definition-configuration-file-parsing-raspberry-logo-miscellaneous-text-rectangle.png" alt="XML" width="24"></code>
 
