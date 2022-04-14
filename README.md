@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Hi, I'm Alex Zapata, a passionate self-taught programmer who likes to continue learning every day about anything related to computing or programming.
 I love surfing the internet and discovering new knowledge to be able to use it in my projects.
 
-**languages and tools:**  
+**languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,6 +29,8 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### Tools 🛠️
 
 **my socials networks:** <br />
 
