@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Hi, I'm Alex Zapata, a passionate self-taught programmer who likes to continue learning every day about anything related to computing or programming.
 I love surfing the internet and discovering new knowledge to be able to use it in my projects.
 
-### Languages #⃣
+### Languages #⃣ ⌨
 
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
