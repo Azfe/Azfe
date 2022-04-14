@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
+
 <img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/main/programming2.gif?raw=true" width="500" height="320" />
 
 Hi, I'm [Alex Zapata], a passionate self-taught programmer who likes to continue learning every day about anything related to computing or programming.
@@ -29,6 +29,7 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+**my socials networks:** 
 <a href="https://www.instagram.com/azfe1984/">
   <img align="left" alt="Azfe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
