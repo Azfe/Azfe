@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/azfe1984/">
   <img align="left" alt="Azfe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -28,15 +28,14 @@ Here are some ideas to get you started:
   <img align="left" alt="Alex Zapata's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
 
 <br />
 
-hi, i'm [Alex Zapata], a passionate self-taught programmer who likes to continue learning every day about anything related to computing or programming.
+Hi, I'm [Alex Zapata], a passionate self-taught programmer who likes to continue learning every day about anything related to computing or programming.
 I love surfing the internet and discovering new knowledge to be able to use it in my projects.
 
-
-  <img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**  
 
