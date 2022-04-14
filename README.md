@@ -60,7 +60,7 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
 
-<br /><br /><br />
+<br/><br/>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
