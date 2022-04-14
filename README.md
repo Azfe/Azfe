@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-  I'm Azfe <img src="https://giphy.com/embed/xT4uQl1oBYev1vaRos" width="50"></h2> 
-  
-  <iframe src="https://giphy.com/embed/xT4uQl1oBYev1vaRos" width="480" height="474" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/g1ft3d-ryan-seslow-collaboration-xT4uQl1oBYev1vaRos">via GIPHY</a></p>
- 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+  I'm Azfe <img src="https://media3.giphy.com/media/xT4uQl1oBYev1vaRos/giphy.gif" width="50"></h2> 
 
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
