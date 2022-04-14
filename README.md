@@ -29,7 +29,7 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**my socials networks:** 
+**my socials networks:** <br />
 <a href="https://www.instagram.com/azfe1984/">
   <img align="left" alt="Azfe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
