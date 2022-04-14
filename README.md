@@ -46,13 +46,6 @@ I love surfing the internet and discovering new knowledge to be able to use it i
 
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 <br />
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
