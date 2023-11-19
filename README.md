@@ -57,7 +57,7 @@ I love browsing the internet and discovering new knowledge to be able to use it 
   <img align="left" alt="Azfe's Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />
 </a>
 <a href="https://twitter.com/AlexZapata1984">
-  <img align="left" alt="Alex Zapata | Twitter" width="22px" src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp" />
+  <img align="left" alt="Alex Zapata | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />
 </a>
 <a href="https://www.linkedin.com/in/alejandrozapataf/">
   <img align="left" alt="Alex Zapata's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
