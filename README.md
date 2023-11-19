@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
-  I'm Azfe &nbsp; &nbsp; <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_256.gif">
+  I'm Azfe &nbsp; &nbsp; <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_256.gif" width="50px">
 </h2> 
 
 <img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/main/programming2.gif?raw=true" width="500" height="320" />
@@ -54,7 +54,7 @@ I love browsing the internet and discovering new knowledge to be able to use it 
   <img align="left" alt="Azfe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/Azfe#3154">
-  <img align="left" alt="Azfe's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Azfe's Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />
 </a>
 <a href="https://twitter.com/AlexZapata1984">
   <img align="left" alt="Alex Zapata | Twitter" width="22px" src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp" />
