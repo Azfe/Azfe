@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
-  I'm Azfe &nbsp; &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4atLtuJrRxFW5MNfgeHch5JM0K1jS6_6NKy2bXueYZgPodEs_xJQoct4XdmBGIKB9Ze8&usqp=CAU">
+  I'm Azfe &nbsp; &nbsp; <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_256.gif">
 </h2> 
 
 <img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/main/programming2.gif?raw=true" width="500" height="320" />
@@ -57,10 +57,10 @@ I love browsing the internet and discovering new knowledge to be able to use it 
   <img align="left" alt="Azfe's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/AlexZapata1984">
-  <img align="left" alt="Alex Zapata | Twitter" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMX2y-Z5PNSnc1v-sNjlr2H_5ExKR0dpw9j_QDIgFwPT9qGaJ7lDI7zfGKRF9SAICiPLw&usqp=CAU" />
+  <img align="left" alt="Alex Zapata | Twitter" width="22px" src="https://logowik.com/content/uploads/images/twitter-x5265.logowik.com.webp" />
 </a>
 <a href="https://www.linkedin.com/in/alejandrozapataf/">
-  <img align="left" alt="Alex Zapata's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Alex Zapata's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
