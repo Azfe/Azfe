@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
-  I'm Azfe &nbsp; &nbsp; <img src="https://content.invisioncic.com/p289038/monthly_2022_01/intro.gif.ecf693beb28f40955db22bc5c6af100e.gif" width="100px">
+  I'm Azfe &nbsp; &nbsp; <img src="https://content.invisioncic.com/p289038/monthly_2022_01/intro.gif.ecf693beb28f40955db22bc5c6af100e.gif" width="50px">
 </h2> 
 
 <img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/main/programming2.gif?raw=true" width="500" height="320" />
