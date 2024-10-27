@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
-  I'm Azfe &nbsp; &nbsp; <img src="https://ayush--viper09.repl.co/gifs/code.gif" width="30px">
+<h2> 
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; I'm Azfe &nbsp; &nbsp; <img src="https://ayush--viper09.repl.co/gifs/code.gif" width="30px">
 </h2> 
 
 <img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/main/programming2.gif?raw=true" width="400" />
