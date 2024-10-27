@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/main/programming2.gif?raw=true" width="500" height="320" />
 
-Hi, I'm Alex Zapata, I'm a web developer specialized mainly in web layout and Front-end and UX/UI design. I can develop websites that are responsive, easy to use and have a good level of accessibility.
+<div>
+  Hi, I'm Alex Zapata, I'm a web developer specialized mainly in web layout and Front-end and UX/UI design. I can develop websites that are responsive, easy to use and have a good level of accessibility.
 
-I'm a passionate and self-taught web developer who likes to continue learning every day about everything related to design, web development, computing and the field of multimedia.
-I love browsing the internet and discovering new knowledge to be able to use it in my projects.
-
+  I'm a passionate and self-taught web developer who likes to continue learning every day about everything related to design, web development, computing and the field of multimedia.
+  I love browsing the internet and discovering new knowledge to be able to use it in my projects.  
+</div>
 
 ### Languages #⃣ ⌨
 
