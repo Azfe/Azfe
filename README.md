@@ -86,7 +86,7 @@ if you like what i do, maybe consider buying me a cup of tea 🫖🍪🤗
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfe&theme=gotham&show_icons=true&hide_border=true&layout=compact" width=500/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfe&theme=gotham&show_icons=true&layout=compact" width=500/>
 </p>
 
 <p align="center">
