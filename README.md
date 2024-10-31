@@ -78,10 +78,10 @@ if you like what i do, maybe consider buying me a cup of tea 🫖🍪🤗
 
  ### My github stats 📈
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=gotham" alt="azfe" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=gotham" width=480 alt="azfe" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfe&theme=gotham&show_icons=true&layout=compact" width=450/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfe&theme=gotham&show_icons=true&layout=compact" width=480/>
 </p>
 <!--
 <p align="center">
