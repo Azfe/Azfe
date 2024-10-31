@@ -93,8 +93,5 @@ if you like what i do, maybe consider buying me a cup of tea 🫖🍪🤗
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=azfe&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=azfe&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)" width=500/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azfe&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)" width=500/>
 </p>
