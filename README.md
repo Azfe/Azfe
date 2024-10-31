@@ -79,16 +79,12 @@ if you like what i do, maybe consider buying me a cup of tea 🫖🍪🤗
  ### My github stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=gotham" alt="azfe" />
-<!--<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api/top-langs/?username=azfe&hide=javascript,css,scss,html&theme=tokyonight)" alt="azfe" />-->
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=azfe&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" width=500/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfe&theme=gotham&show_icons=true&layout=compact" width=500/>
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azfe&hide=blade,&theme=algolia&show_icons=true)" width=500/>
 </p>
+-->
