@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu"></code>
+<code><img height="30" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-1024x1024-cb4t8vyj.png" alt="Figma"></code>
 
 <!--
 <code><img src="" alt="" width=""></code>
