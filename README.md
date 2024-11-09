@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://img.icons8.com/?size=160&id=Xf1sHBmY73hA&format=png"></code>
-<code><img height="20" src="[https://img.icons8.com/?size=160&id=Xf1sHBmY73hA&format=png](https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png)"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="24"></code>
