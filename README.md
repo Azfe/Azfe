@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 ### Languages ⌨
 
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://img.icons8.com/?size=160&id=Xf1sHBmY73hA&format=png"></code>
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/angular-icon-483x512-3apnmqn2.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqh8cEQwGnjkf79dSQJUtvmG0Qpu3ImK5wdei28k4nweGIVXLFzHwyGd8ep6I7_VaALPU&usqp=CAU"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20180718/cbh/4924da87f795e6a7242d3f32fcd4b413.webp"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=160&id=Xf1sHBmY73hA&format=png"></code>
+<code><img height="30" src="https://static-00.iconduck.com/assets.00/angular-icon-483x512-3apnmqn2.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqh8cEQwGnjkf79dSQJUtvmG0Qpu3ImK5wdei28k4nweGIVXLFzHwyGd8ep6I7_VaALPU&usqp=CAU"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180718/cbh/4924da87f795e6a7242d3f32fcd4b413.webp"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="24"></code>
 <code><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS3" width="24"></code>
