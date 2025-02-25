@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### Languages ⌨
 
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"></code>
+<code><img height="30" src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://img.icons8.com/?size=160&id=Xf1sHBmY73hA&format=png"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/angular-icon-483x512-3apnmqn2.png"></code>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <code><img src="https://w7.pngwing.com/pngs/650/774/png-transparent-xml-schema-document-type-definition-configuration-file-parsing-raspberry-logo-miscellaneous-text-rectangle.png" alt="XML" width="30"></code>
 
 ### Tools 🛠️
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png"></code>
+<code><img height="30" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Azfe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/Azfe#3154">
-  <img align="left" alt="Azfe's Discord" width="22px" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" />
+  <img align="left" alt="Azfe's Discord" width="22px" src="https://static.vecteezy.com/system/resources/previews/023/741/066/non_2x/discord-logo-icon-social-media-icon-free-png.png" />
 </a>
 <a href="https://twitter.com/AlexZapata1984">
   <img align="left" alt="Alex Zapata | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />
