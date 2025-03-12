@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div style = "padding: 10px;">
   <p>
-    Hi, I'm Alex Zapata, I'm a web developer specialized mainly in web layout and Front-end and UX/UI design. I can develop websites that are responsive, easy to use and have a good level of accessibility.
+    Hi, I'm Alex Zapata, I'm a web developer specialized mainly in web layout, Front-end development and UX/UI design. I can develop websites that are responsive, easy to use and have a good level of accessibility.
   </p>
   <p>
     I'm a passionate and self-taught web developer who likes to continue learning every day about everything related to design, web development, computing and the field of multimedia.
