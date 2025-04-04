@@ -87,3 +87,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azfe&hide=blade&theme=algolia&show_icons=true)" width=500/>
 </p>
 -->
+
+### Recent Activity ⚡
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
