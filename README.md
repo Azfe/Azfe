@@ -91,12 +91,12 @@ Here are some ideas to get you started:
 ### Recent Activity ⚡
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Azfe/DWFB_HTML](https://github.com/Azfe/DWFB_HTML)<br>
-2. ⬆️ Pushed 1 commit(s) to [Azfe/python](https://github.com/Azfe/python)<br>
-3. ⬆️ Pushed 3 commit(s) to [Azfe/python](https://github.com/Azfe/python)<br>
-4. 🎉 Merged PR [#3](https://github.com/Azfe/python/pull/3) in [Azfe/python](https://github.com/Azfe/python)<br>
-5. 💪 Opened PR [#3](https://github.com/Azfe/python/pull/3) in [Azfe/python](https://github.com/Azfe/python)<br>
+1. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
+2. ⬆️ Pushed 4 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
+3. 📔 Created new repository [Azfe/DWFB_HTML](https://github.com/Azfe/DWFB_HTML)<br>
+4. ⬆️ Pushed 1 commit(s) to [Azfe/python](https://github.com/Azfe/python)<br>
+5. ⬆️ Pushed 3 commit(s) to [Azfe/python](https://github.com/Azfe/python)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 2nd, 2025, 1:22:12 PM
+Last Updated: Tuesday, June 3rd, 2025, 1:47:14 AM
 <!--RECENT_ACTIVITY:last_update_end-->
