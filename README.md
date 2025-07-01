@@ -94,9 +94,9 @@ Here are some ideas to get you started:
 1. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
 2. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
 3. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
-4. 🎉 Merged PR [#13](https://github.com/Azfe/pokemon_api_pokedex/pull/13) in [Azfe/pokemon_api_pokedex](https://github.com/Azfe/pokemon_api_pokedex)<br>
-5. ⬆️ Pushed 2 commit(s) to [Azfe/pokemon_api_pokedex](https://github.com/Azfe/pokemon_api_pokedex)<br>
+4. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
+5. 🎉 Merged PR [#13](https://github.com/Azfe/pokemon_api_pokedex/pull/13) in [Azfe/pokemon_api_pokedex](https://github.com/Azfe/pokemon_api_pokedex)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 30th, 2025, 1:23:35 PM
+Last Updated: Tuesday, July 1st, 2025, 1:59:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
