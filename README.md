@@ -92,11 +92,11 @@ Here are some ideas to get you started:
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Azfe/javascript_vanilla_-_notes](https://github.com/Azfe/javascript_vanilla_-_notes)<br>
-2. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
+2. ⬆️ Pushed 1 commit(s) to [Azfe/javascript_vanilla_-_notes](https://github.com/Azfe/javascript_vanilla_-_notes)<br>
 3. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
 4. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
 5. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 2nd, 2025, 1:23:01 PM
+Last Updated: Thursday, July 3rd, 2025, 1:48:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
