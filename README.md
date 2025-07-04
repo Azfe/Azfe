@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### Languages ⌨
+### ⌨ Languages
 
 <table>
   <tr>
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 <code><img src="https://w7.pngwing.com/pngs/650/774/png-transparent-xml-schema-document-type-definition-configuration-file-parsing-raspberry-logo-miscellaneous-text-rectangle.png" alt="XML" width="30"></code>
 -->
 
-### Tools 🛠️
+### 🛠️ Tools
 
 <table>
   <tr>
@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 <code><img src="" alt="" width=""></code>
 -->
 
-### Socials networks 🌐 <br />
+### 🌐 Socials networks <br />
 <table>
   <tr>
     <td>
@@ -148,16 +148,12 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-
-
-
+<br>
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
 -->
 
-
- ### My github stats 📈
+ ### 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=gotham" width=480 alt="azfe" />
 
@@ -170,7 +166,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-### Recent Activity ⚡
+### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente](https://github.com/Azfe/IFCD0210_DAW_MF0491_-_Programacion_web_entorno_cliente)<br>
