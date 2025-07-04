@@ -39,8 +39,9 @@ Here are some ideas to get you started:
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a39016b9e1e5b481df54f65d1bbc46c7a996b4d4/javascript.svg" width="20" alt="JS Logo"></td>
     <td>Typescript</td>
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/typescript.svg" width="20" alt="TS Logo"></td>
-  </tr>
-  <tr></tr>
+    <td></td>
+    <td></td>
+  </tr>  
   <tr>
     <td>React</td>
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/1777b1789873bb194ea889a0b895c2a21e2e4195/logos/react_dark.svg" width="20" alt="React Logo"></td>
@@ -136,9 +137,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/alejandrozapataf/">
   <img align="left" alt="Alex Zapata's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
-
+<!--
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
-
+-->
  ### My github stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=gotham" width=480 alt="azfe" />
