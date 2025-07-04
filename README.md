@@ -36,36 +36,36 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>Javascript</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a39016b9e1e5b481df54f65d1bbc46c7a996b4d4/javascript.svg" width="20" alt="JS Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a39016b9e1e5b481df54f65d1bbc46c7a996b4d4/javascript.svg" width="20" align="center" alt="JS Logo"></td>
     <td>Typescript</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/typescript.svg" width="20" alt="TS Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/typescript.svg" width="20" align="center" alt="TS Logo"></td>
     <td></td>
     <td></td>
   </tr>  
   <tr>
     <td>React</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/1777b1789873bb194ea889a0b895c2a21e2e4195/logos/react_dark.svg" width="20" alt="React Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/1777b1789873bb194ea889a0b895c2a21e2e4195/logos/react_dark.svg" width="20" align="center" alt="React Logo"></td>
     <td>Vuejs</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0748fc29ea024f7e0ad7da90aa9c098e00c4226e/vue.svg" width="20" alt="Vuejs Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0748fc29ea024f7e0ad7da90aa9c098e00c4226e/vue.svg" width="20" align="center" alt="Vuejs Logo"></td>
     <td>Angular</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/angular.svg" width="20" alt="Angular Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/angular.svg" width="20" align="center" alt="Angular Logo"></td>
   </tr>
   <tr>
     <td>Nodejs</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/e5df47080c67b19927fdac3b57b6141240895a92/logos/nodejs.svg" width="20" alt="Node Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/e5df47080c67b19927fdac3b57b6141240895a92/logos/nodejs.svg" width="20" align="center" alt="Node Logo"></td>
     <td>Java</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0d482b170792979bbbc6488132959e9c3394c735/logos/java.svg" width="20" alt="Java Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0d482b170792979bbbc6488132959e9c3394c735/logos/java.svg" width="20" align="center" alt="Java Logo"></td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td>HTML5</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a338eab23f5b5adb7ba608ce61415a1112e5b2cd/logos/html5.svg" width="20" alt="HTML5 Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a338eab23f5b5adb7ba608ce61415a1112e5b2cd/logos/html5.svg" width="20" align="center" alt="HTML5 Logo"></td>  
     <td>CSS3</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/6d300911b365553031194db5a4e947c00be3c012/logos/css_old.svg" width="20" alt="CSS3 Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/6d300911b365553031194db5a4e947c00be3c012/logos/css_old.svg" width="20" align="center" alt="CSS3 Logo"></td>  
     <td>Tailwind CSS</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/tailwindcss.svg" width="20" alt="Tailwind Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/tailwindcss.svg" width="20" align="center" alt="Tailwind Logo"></td>  
     <td>XML</td>
     <!--<td><img src="" width="20" alt="XML Logo"></td>-->
   </tr>
@@ -90,23 +90,23 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>Mongo DB</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a39016b9e1e5b481df54f65d1bbc46c7a996b4d4/javascript.svg" width="20" alt="JS Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a39016b9e1e5b481df54f65d1bbc46c7a996b4d4/javascript.svg" width="20" align="center" alt="JS Logo"></td>  
     <td>MySQL</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/5a6af849c55f67e699c8d1feaa5b836230b12d99/logos/mysql.svg" width="20" alt="MySQL Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/5a6af849c55f67e699c8d1feaa5b836230b12d99/logos/mysql.svg" width="20" align="center" alt="MySQL Logo"></td>
     <td>Firebase</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/77722c5ef75bce5b7ed93b7a9c01e1028c2829d1/firebase.svg" width="20" alt="Firebase Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/77722c5ef75bce5b7ed93b7a9c01e1028c2829d1/firebase.svg" width="20" align="center" alt="Firebase Logo"></td>  
     <td>Git</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/git.svg" width="20" alt="Git Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/git.svg" width="20" align="center" alt="Git Logo"></td>
   </tr>  
   <tr>
     <td>Visual Studio Code</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/82575438d668bd900bcdb366b30facf15c99636a/logos/vscode.svg" width="20" alt="VSC Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/82575438d668bd900bcdb366b30facf15c99636a/logos/vscode.svg" width="20" align="center" alt="VSC Logo"></td>
     <td>Eclipse</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a5373cfa83efdd378c89af9a56fe78caba1dc60d/eclipse.svg" width="20" alt="Eclipse Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a5373cfa83efdd378c89af9a56fe78caba1dc60d/eclipse.svg" width="20" align="center" alt="Eclipse Logo"></td>
     <td>Ubuntu</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0748fc29ea024f7e0ad7da90aa9c098e00c4226e/logos/ubuntu.svg" width="20" alt="Ubuntu Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0748fc29ea024f7e0ad7da90aa9c098e00c4226e/logos/ubuntu.svg" width="20" align="center" alt="Ubuntu Logo"></td>
     <td>Figma</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0a4d5d6766f128cd98ca017a7396dcb7a60893ad/logos/figma.svg" width="20" alt="Figma Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0a4d5d6766f128cd98ca017a7396dcb7a60893ad/logos/figma.svg" width="20" align="center" alt="Figma Logo"></td>
   </tr>  
 </table>
 <!--
@@ -124,22 +124,38 @@ Here are some ideas to get you started:
 -->
 
 ### Socials networks 🌐 <br />
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/azfe1984/">
+        <img align="center" alt="Azfe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.gg/Azfe#3154">
+        <img align="center" alt="Azfe's Discord" width="22px" src="https://static.vecteezy.com/system/resources/previews/023/741/066/non_2x/discord-logo-icon-social-media-icon-free-png.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/AlexZapata1984">
+        <img align="center" alt="Alex Zapata | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/alejandrozapataf/">
+        <img align="center" alt="Alex Zapata's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.instagram.com/azfe1984/">
-  <img align="left" alt="Azfe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/Azfe#3154">
-  <img align="left" alt="Azfe's Discord" width="22px" src="https://static.vecteezy.com/system/resources/previews/023/741/066/non_2x/discord-logo-icon-social-media-icon-free-png.png" />
-</a>
-<a href="https://twitter.com/AlexZapata1984">
-  <img align="left" alt="Alex Zapata | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" />
-</a>
-<a href="https://www.linkedin.com/in/alejandrozapataf/">
-  <img align="left" alt="Alex Zapata's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
-</a>
+
+
+
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
 -->
+
 
  ### My github stats 📈
 
