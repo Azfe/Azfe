@@ -169,12 +169,12 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#50](https://github.com/CodeCrafters-ES/the-corner_shop/issues/50) in [CodeCrafters-ES/the-corner_shop](https://github.com/CodeCrafters-ES/the-corner_shop)<br>
-2. ❗️ Opened issue [#49](https://github.com/CodeCrafters-ES/the-corner_shop/issues/49) in [CodeCrafters-ES/the-corner_shop](https://github.com/CodeCrafters-ES/the-corner_shop)<br>
-3. ❗️ Opened issue [#48](https://github.com/CodeCrafters-ES/the-corner_shop/issues/48) in [CodeCrafters-ES/the-corner_shop](https://github.com/CodeCrafters-ES/the-corner_shop)<br>
-4. ❗️ Opened issue [#47](https://github.com/CodeCrafters-ES/the-corner_shop/issues/47) in [CodeCrafters-ES/the-corner_shop](https://github.com/CodeCrafters-ES/the-corner_shop)<br>
-5. 📔 Created new repository [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+1. ❗️ Opened issue [#10](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/10) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+2. ❗️ Opened issue [#9](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/9) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+3. ❗️ Opened issue [#8](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/8) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+4. ❗️ Opened issue [#7](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/7) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+5. ❗️ Opened issue [#6](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/6) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 5th, 2025, 1:02:05 PM
+Last Updated: Monday, October 6th, 2025, 1:38:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
