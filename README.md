@@ -169,12 +169,12 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
-2. ✔️ Closed issue [#25](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/25) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
-3. ❗️ Opened issue [#26](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/26) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
-4. ✔️ Closed issue [#11](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/11) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
-5. ❗️ Opened issue [#19](https://github.com/CodeCrafters-ES/schola_app-student_management/issues/19) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+1. ⬆️ Pushed 2 commit(s) to [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+2. 🎉 Merged PR [#35](https://github.com/CodeCrafters-ES/schola_app-student_management/pull/35) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+3. 💪 Opened PR [#35](https://github.com/CodeCrafters-ES/schola_app-student_management/pull/35) in [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+4. ⬆️ Pushed 6 commit(s) to [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
+5. ⬆️ Pushed 2 commit(s) to [CodeCrafters-ES/schola_app-student_management](https://github.com/CodeCrafters-ES/schola_app-student_management)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 8th, 2025, 1:18:57 PM
+Last Updated: Thursday, October 9th, 2025, 1:36:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
