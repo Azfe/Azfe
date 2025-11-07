@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     <td>Java</td>
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0d482b170792979bbbc6488132959e9c3394c735/logos/java.svg" width="20" align="center" alt="Java Logo"></td>
     <td>Python</td>
-    <td><img src="" width="20" align="center" alt="Python Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/498074f16e0b6bd3d77c9867737a176f6a94442f/logos/python.svg" width="20" align="center" alt="Python Logo"></td>
 
     
     
