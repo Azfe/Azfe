@@ -55,6 +55,11 @@ Here are some ideas to get you started:
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/e5df47080c67b19927fdac3b57b6141240895a92/logos/nodejs.svg" width="20" align="center" alt="Node Logo"></td>
     <td>Java</td>
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0d482b170792979bbbc6488132959e9c3394c735/logos/java.svg" width="20" align="center" alt="Java Logo"></td>
+    <td>Python</td>
+    <td><img src="" width="20" align="center" alt="Python Logo"></td>
+
+    
+    
   </tr>
 </table>
 
