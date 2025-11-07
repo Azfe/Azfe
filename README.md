@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   Hi there! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; I'm Azfe &nbsp;
 </h2> 
 
-<img align="right" alt="GIF" src="https://github.com/Azfe/Azfe/blob/main/programming2.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azfe/Azfe/refs/heads/main/coding.gif?raw=true" width="200" />
 
 <div>
   <p>
