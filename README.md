@@ -40,7 +40,8 @@ Here are some ideas to get you started:
     <td>Typescript</td>
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/typescript.svg" width="20" align="center" alt="TS Logo"></td>
     <td>Astro</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/Astro_dark.svg" width="20" align="center" alt="TS Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/48c875341ffb975501196ae158c5f81510d55439/logos/Astro_dark.svg" width="20" align="center" alt="Astro Logo"></td>
+    
   </tr>  
   <tr>
     <td>React</td>
