@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+<hr/>
 
 ### ⌨ Languages
 
@@ -71,7 +72,9 @@ Here are some ideas to get you started:
     <td>CSS3</td>
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/6d300911b365553031194db5a4e947c00be3c012/logos/css_old.svg" width="20" align="center" alt="CSS3 Logo"></td>  
     <td>Tailwind CSS</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/tailwindcss.svg" width="20" align="center" alt="Tailwind Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/tailwindcss.svg" width="20" align="center" alt="Tailwind Logo"></td> 
+    <td>Bootstrap</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/8c4ec293f1920b16d39b61918d9998da588cd426/logos/bootstrap.svg" width="20" align="center" alt="Bootstrap Logo"></td> 
     <td>XML</td>
     <!--<td><img src="" width="20" alt="XML Logo"></td>-->
   </tr>
@@ -158,14 +161,16 @@ Here are some ideas to get you started:
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=azfe.azfe)
 -->
-
+<!--
  ### 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=gotham" width=480 alt="azfe" />
+![Azfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azfe&show_icons=true&theme=radical)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azfe&hide=blade&theme=gotham&show_icons=true&layout=compact" width=480/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azfe&hide=blade&theme=gotham&show_icons=true&layout=compact" width=480/>
 </p>
+-->
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azfe&hide=blade&theme=algolia&show_icons=true)" width=500/>
