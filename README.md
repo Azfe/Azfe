@@ -32,51 +32,54 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-### ⌨ Languages
+### ⌨ Programming languages
 
 <table>
   <tr>
     <td>Javascript</td>
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a39016b9e1e5b481df54f65d1bbc46c7a996b4d4/javascript.svg" width="20" align="center" alt="JS Logo"></td>
     <td>Typescript</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/typescript.svg" width="20" align="center" alt="TS Logo"></td>
-    <td>Astro</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/48c875341ffb975501196ae158c5f81510d55439/logos/Astro_dark.svg" width="20" align="center" alt="Astro Logo"></td>
-    
-  </tr>  
-  <tr>
-    <td>React</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/1777b1789873bb194ea889a0b895c2a21e2e4195/logos/react_dark.svg" width="20" align="center" alt="React Logo"></td>
-    <td>Vuejs</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0748fc29ea024f7e0ad7da90aa9c098e00c4226e/vue.svg" width="20" align="center" alt="Vuejs Logo"></td>
-    <td>Angular</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/angular.svg" width="20" align="center" alt="Angular Logo"></td>
-  </tr>
-  <tr>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/typescript.svg" width="20" height="20" align="center" alt="TS Logo"></td>  
     <td>Nodejs</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/e5df47080c67b19927fdac3b57b6141240895a92/logos/nodejs.svg" width="20" align="center" alt="Node Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/e5df47080c67b19927fdac3b57b6141240895a92/logos/nodejs.svg" width="20" height="20" align="center" alt="Node Logo"></td>
+  </tr>  
+  <tr>    
     <td>Java</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0d482b170792979bbbc6488132959e9c3394c735/logos/java.svg" width="20" align="center" alt="Java Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0d482b170792979bbbc6488132959e9c3394c735/logos/java.svg" width="20" height="20" align="center" alt="Java Logo"></td>
     <td>Python</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/498074f16e0b6bd3d77c9867737a176f6a94442f/logos/python.svg" width="20" align="center" alt="Python Logo"></td>
-
-    
-    
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/498074f16e0b6bd3d77c9867737a176f6a94442f/logos/python.svg" width="20" align="center" alt="Python Logo"></td>    
   </tr>
 </table>
 
 <table>
   <tr>
     <td>HTML5</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a338eab23f5b5adb7ba608ce61415a1112e5b2cd/logos/html5.svg" width="20" align="center" alt="HTML5 Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a338eab23f5b5adb7ba608ce61415a1112e5b2cd/logos/html5.svg" width="20" height="20" align="center" alt="HTML5 Logo"></td>  
     <td>CSS3</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/6d300911b365553031194db5a4e947c00be3c012/logos/css_old.svg" width="20" align="center" alt="CSS3 Logo"></td>  
-    <td>Tailwind CSS</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/tailwindcss.svg" width="20" align="center" alt="Tailwind Logo"></td> 
-    <td>Bootstrap</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/8c4ec293f1920b16d39b61918d9998da588cd426/logos/bootstrap.svg" width="20" align="center" alt="Bootstrap Logo"></td> 
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/6d300911b365553031194db5a4e947c00be3c012/logos/css_old.svg" width="20" align="center" alt="CSS3 Logo"></td>    
     <td>XML</td>
     <!--<td><img src="" width="20" alt="XML Logo"></td>-->
+  </tr>
+</table>
+
+### 🖼️ Frameworks & libraries
+
+<table>
+  <tr>
+    <td>React</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/1777b1789873bb194ea889a0b895c2a21e2e4195/logos/react_dark.svg" width="20" height="20" align="center" alt="React Logo"></td>
+    <td>Vuejs</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0748fc29ea024f7e0ad7da90aa9c098e00c4226e/vue.svg" width="20" height="20" height="center" alt="Vuejs Logo"></td>
+    <td>Angular</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/angular.svg" width="20" height="20" align="center" alt="Angular Logo"></td>
+  </tr>
+  <tr>
+    <td>Astro</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/48c875341ffb975501196ae158c5f81510d55439/logos/Astro_dark.svg" width="20" height="20" align="center" alt="Astro Logo"></td>  
+    <td>Bootstrap</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/8c4ec293f1920b16d39b61918d9998da588cd426/logos/bootstrap.svg" width="20" align="center" alt="Bootstrap Logo"></td> 
+    <td>Tailwind CSS</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/tailwindcss.svg" width="20" align="center" alt="Tailwind Logo"></td> 
   </tr>
 </table>
 
@@ -94,30 +97,57 @@ Here are some ideas to get you started:
 <code><img src="https://w7.pngwing.com/pngs/650/774/png-transparent-xml-schema-document-type-definition-configuration-file-parsing-raspberry-logo-miscellaneous-text-rectangle.png" alt="XML" width="30"></code>
 -->
 
-### 🛠️ Tools
+### Databases & Cloud Hosting
 
 <table>
   <tr>
     <td>Mongo DB</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a39016b9e1e5b481df54f65d1bbc46c7a996b4d4/javascript.svg" width="20" align="center" alt="JS Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/3426fb6e8e15e08695ded87e7ce5af8860e5521e/logos/mongodb-icon-dark.svg" width="20" height="20" align="center" alt="MongoDB Logo"></td>
     <td>MySQL</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/5a6af849c55f67e699c8d1feaa5b836230b12d99/logos/mysql.svg" width="20" align="center" alt="MySQL Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/5a6af849c55f67e699c8d1feaa5b836230b12d99/logos/mysql.svg" width="20" height="20" align="center" alt="MySQL Logo"></td>
+    <td>SQLite</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/fccc10f0f33dbcfda9eb61aaea65a0a9c38c9d17/logos/sqlite.svg" height="20" align="center" alt="SQLite Logo"></td>
+    <td>PostgreSQL</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/fccc10f0f33dbcfda9eb61aaea65a0a9c38c9d17/logos/postgresql.svg" height="20" align="center" alt="PostgreSQL Logo"></td>
+    <td>MariaDB</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/fccc10f0f33dbcfda9eb61aaea65a0a9c38c9d17/logos/mariadb.svg" height="20" align="center" alt="MariaDB Logo"></td>
+    <td>Supabase</td>
+    <td><img src="" height="20" align="center" alt="Supabase Logo"></td>
+    
+  </tr>  
+</table>
+
+### 🛠️ Tools
+<table>
+  <tr>     
     <td>Firebase</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/77722c5ef75bce5b7ed93b7a9c01e1028c2829d1/firebase.svg" width="20" align="center" alt="Firebase Logo"></td>  
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/77722c5ef75bce5b7ed93b7a9c01e1028c2829d1/firebase.svg" width="20" height="20" align="center" alt="Firebase Logo"></td>  
     <td>Git</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/git.svg" width="20" align="center" alt="Git Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/git.svg" width="20" height="20" align="center" alt="Git Logo"></td>
+    <td>Vite</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/git.svg" width="20" height="20" align="center" alt="Vite Logo"></td>
+    <td>dotenv</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/2baa8154cecc666f9f3ece2b0991f41bb4291480/logos/git.svg" width="20" height="20" align="center" alt="dotenv Logo"></td>
   </tr>  
   <tr>
     <td>Visual Studio Code</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/82575438d668bd900bcdb366b30facf15c99636a/logos/vscode.svg" width="20" align="center" alt="VSC Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/82575438d668bd900bcdb366b30facf15c99636a/logos/vscode.svg" height="20" align="center" alt="VSCode Logo"></td>
     <td>Eclipse</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a5373cfa83efdd378c89af9a56fe78caba1dc60d/eclipse.svg" width="20" align="center" alt="Eclipse Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a5373cfa83efdd378c89af9a56fe78caba1dc60d/eclipse.svg" height="20" align="center" alt="Eclipse Logo"></td>
     <td>Ubuntu</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0748fc29ea024f7e0ad7da90aa9c098e00c4226e/logos/ubuntu.svg" width="20" align="center" alt="Ubuntu Logo"></td>
-    <td>Figma</td>
-    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0a4d5d6766f128cd98ca017a7396dcb7a60893ad/logos/figma.svg" width="20" align="center" alt="Figma Logo"></td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0748fc29ea024f7e0ad7da90aa9c098e00c4226e/logos/ubuntu.svg" height="20" align="center" alt="Ubuntu Logo"></td>    
   </tr>  
 </table>
+
+### Graphic design and prototyping
+
+<table>
+  <tr>
+    <td>Figma</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/0a4d5d6766f128cd98ca017a7396dcb7a60893ad/logos/figma.svg" width="20" height="20" align="center" alt="Figma Logo"></td>
+  </tr>  
+</table>
+
 <!--
 <code><img height="30" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
