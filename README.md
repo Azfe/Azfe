@@ -39,8 +39,8 @@ Here are some ideas to get you started:
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/a39016b9e1e5b481df54f65d1bbc46c7a996b4d4/javascript.svg" width="20" align="center" alt="JS Logo"></td>
     <td>Typescript</td>
     <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/typescript.svg" width="20" align="center" alt="TS Logo"></td>
-    <td></td>
-    <td></td>
+    <td>Astro</td>
+    <td><img src="https://raw.githubusercontent.com/Azfe/Azfe/585340c39b95f2909ca4b1cc978cf1b3383eb64b/logos/Astro_dark.svg" width="20" align="center" alt="TS Logo"></td>
   </tr>  
   <tr>
     <td>React</td>
