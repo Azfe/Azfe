@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> 
-  Hi there! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp; I'm Azfe &nbsp;
+  Hi there! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> &nbsp;
 </h2> 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Azfe/Azfe/refs/heads/main/coding.gif?raw=true" width="200" />
