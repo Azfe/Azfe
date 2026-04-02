@@ -236,12 +236,12 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#32](https://github.com/CodeCrafters-ES/tribehub-social_network-backend/issues/32) in [CodeCrafters-ES/tribehub-social_network-backend](https://github.com/CodeCrafters-ES/tribehub-social_network-backend)<br>
-2. 💬 Commented on [#32](https://github.com/CodeCrafters-ES/tribehub-social_network-backend/issues/32#issuecomment-4169467438) in [CodeCrafters-ES/tribehub-social_network-backend](https://github.com/CodeCrafters-ES/tribehub-social_network-backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [CodeCrafters-ES/tribehub-social_network-backend](https://github.com/CodeCrafters-ES/tribehub-social_network-backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [CodeCrafters-ES/tribehub-social_network-backend](https://github.com/CodeCrafters-ES/tribehub-social_network-backend)<br>
-5. 💪 Opened PR [#105](undefined) in [CodeCrafters-ES/tribehub-social_network-backend](https://github.com/CodeCrafters-ES/tribehub-social_network-backend)<br>
+1. ✔️ Closed issue [#34](https://github.com/CodeCrafters-ES/tribehub-social_network-backend/issues/34) in [CodeCrafters-ES/tribehub-social_network-backend](https://github.com/CodeCrafters-ES/tribehub-social_network-backend)<br>
+2. 💬 Commented on [#75](https://github.com/CodeCrafters-ES/tribehub-social_network-backend/pull/75#issuecomment-4172829830) in [CodeCrafters-ES/tribehub-social_network-backend](https://github.com/CodeCrafters-ES/tribehub-social_network-backend)<br>
+3. 💬 Commented on [#75](https://github.com/CodeCrafters-ES/tribehub-social_network-backend/pull/75#issuecomment-4172721494) in [CodeCrafters-ES/tribehub-social_network-backend](https://github.com/CodeCrafters-ES/tribehub-social_network-backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [CodeCrafters-ES/tribehub-social_network-frontend](https://github.com/CodeCrafters-ES/tribehub-social_network-frontend)<br>
+5. ✔️ Closed issue [#46](https://github.com/CodeCrafters-ES/tribehub-social_network-frontend/issues/46) in [CodeCrafters-ES/tribehub-social_network-frontend](https://github.com/CodeCrafters-ES/tribehub-social_network-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 1st, 2026, 1:26:44 PM
+Last Updated: Thursday, April 2nd, 2026, 2:33:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
