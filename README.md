@@ -236,12 +236,12 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#59](undefined) in [Azfe/azfe_portfolio_astro](https://github.com/Azfe/azfe_portfolio_astro)<br>
-2. ⬆️ Pushed undefined commit(s) to [Azfe/azfe_portfolio_api](https://github.com/Azfe/azfe_portfolio_api)<br>
-3. 💬 Commented on [#27](https://github.com/Azfe/azfe_portfolio_astro/issues/27#issuecomment-4326365748) in [Azfe/azfe_portfolio_astro](https://github.com/Azfe/azfe_portfolio_astro)<br>
-4. ⬆️ Pushed undefined commit(s) to [Azfe/azfe_portfolio_api](https://github.com/Azfe/azfe_portfolio_api)<br>
-5. ⬆️ Pushed undefined commit(s) to [Azfe/azfe_portfolio_api](https://github.com/Azfe/azfe_portfolio_api)<br>
+1. ✔️ Closed issue [#152](https://github.com/Azfe/azfe_portfolio_api/issues/152) in [Azfe/azfe_portfolio_api](https://github.com/Azfe/azfe_portfolio_api)<br>
+2. 💪 Opened PR [#61](undefined) in [Azfe/azfe_portfolio_astro](https://github.com/Azfe/azfe_portfolio_astro)<br>
+3. ⬆️ Pushed undefined commit(s) to [Azfe/azfe_portfolio_astro](https://github.com/Azfe/azfe_portfolio_astro)<br>
+4. ⬆️ Pushed undefined commit(s) to [Azfe/azfe_portfolio_astro](https://github.com/Azfe/azfe_portfolio_astro)<br>
+5. ⬆️ Pushed undefined commit(s) to [Azfe/azfe_portfolio_astro](https://github.com/Azfe/azfe_portfolio_astro)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 27th, 2026, 1:59:19 PM
+Last Updated: Tuesday, April 28th, 2026, 3:27:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
